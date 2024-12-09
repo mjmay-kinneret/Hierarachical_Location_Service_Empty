@@ -7,6 +7,8 @@ import javafx.beans.property.StringProperty;
 
 /**
  * Entries for the file in the files table and results table
+ * @author Michael J. May
+ * @version 2024
  */
 public class FileEntry {
     private StringProperty fileName;

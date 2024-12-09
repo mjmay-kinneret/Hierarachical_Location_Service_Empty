@@ -6,6 +6,12 @@ import javafx.fxml.Initializable;
 import java.net.URL;
 import java.util.ResourceBundle;
 
+/**
+ * Controller for the HLS GUI
+ *
+ * @author Michael J. May
+ * @version 2024
+ */
 public class HLSController implements Initializable {
     @Override
     public void initialize(URL url, ResourceBundle resourceBundle) {

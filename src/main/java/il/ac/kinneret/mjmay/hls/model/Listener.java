@@ -1,4 +1,9 @@
 package il.ac.kinneret.mjmay.hls.model;
 
-public class Listener {
+/**
+ * Listening thread
+ *
+ * @author Michael J. May
+ */
+public class Listener extends Thread {
 }

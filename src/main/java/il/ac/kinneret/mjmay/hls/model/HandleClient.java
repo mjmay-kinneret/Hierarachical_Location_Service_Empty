@@ -1,4 +1,7 @@
 package il.ac.kinneret.mjmay.hls.model;
 
-public class HandleClient {
+/**
+ * A thread to handle client incoming requests
+ */
+public class HandleClient extends Thread {
 }

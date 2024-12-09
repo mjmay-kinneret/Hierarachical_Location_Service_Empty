@@ -7,6 +7,12 @@ import javafx.scene.Scene;
 import javafx.scene.image.Image;
 import javafx.stage.Stage;
 
+/**
+ * Main class for the HLS application.
+ *
+ * @author Michael J. May
+ * @version 2024
+ */
 public class Main extends Application {
 
     @Override
